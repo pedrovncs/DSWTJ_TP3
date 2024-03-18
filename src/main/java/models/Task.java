@@ -1,10 +1,10 @@
 package models;
 
 public class Task {
-    private int id;
-    private int userId;
-    private String title;
-    private boolean completed;
+    public int id;
+    public int userId;
+    public String title;
+    public boolean completed;
 
     public Task() {
     }
